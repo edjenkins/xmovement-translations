@@ -2,22 +2,22 @@
 
 return [
 	'support_this_idea' => 'Support this Idea',
-	'design_dashboard' => 'Design Dashboard',
-	'browse_proposals' => 'View Proposals',
-	'edit_idea' => 'Edit Idea',
+	'design_dashboard' => 'Get Involved',
+	'browse_proposals' => 'View Blueprints',
+	'edit_idea' => 'Edit this Idea',
 	'delete_confirmation' => 'Are you sure you want to delete this?',
-	'delete_idea' => 'Delete Idea',
+	'delete_idea' => 'Delete this Idea',
 	'supporters' => 'Supporters',
 
 	'organized_by' => 'Organized by :user_name',
 	'creator' => 'Idea Creator',
 
-	'design_area_opens' => 'Design area opens in :time',
-	'proposal_area_opens' => 'Proposal area opens in :time',
+	'design_area_opens' => 'Get Involved phase starts in :time',
+	'proposal_area_opens' => 'Blueprint phase starts in :time',
 	'confirm_support' => 'Confirm Support',
 	'confirm_support_description' => 'Please confirm your support by completing the CAPTCHA below.',
 
-	'proposals' => 'Proposals',
+	'proposals' => 'Blueprints',
 	'view_all_proposals' => 'View all',
 	'discussion' => 'Discussion',
 
@@ -29,9 +29,9 @@ return [
 	'posted_by' => 'Posted by',
 
 	// Invite
-	'invite_some_friends' => 'Invite some Friends',
+	'invite_some_friends' => 'Spread the word!',
 	'congratulations' => 'Congratulations',
-	'invite_description' => 'Get your idea rolling by inviting some friends! Enter their names and emails below and we will them send a message.',
+	'invite_description' => 'Start the ball rolling by inviting some friends! Enter their names and emails below and we will them send a message.',
 
 	'name_placeholder' => 'Name',
 	'email_placeholder' => 'Email',
@@ -40,11 +40,11 @@ return [
 	'skip' => 'Skip this step',
 
 	// Progress
-	'progress_support_design_propose' => 'Support/Design/Propose',
-	'progress_support_design' => 'Support/Design',
-	'progress_design_propose' => 'Design/Propose',
+	'progress_support_design_propose' => 'Support/Get Involved/Blueprint',
+	'progress_support_design' => 'Support/Get Involved',
+	'progress_design_propose' => 'Get Involved/Blueprint',
 	'progress_support' => 'Support',
-	'progress_design' => 'Design',
-	'progress_propose' => 'Propose',
+	'progress_design' => 'Get Involved',
+	'progress_propose' => 'Blueprint',
 	'progress_complete' => 'Complete',
 ];

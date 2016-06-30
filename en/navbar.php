@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'create' => 'Create',
+    'create' => 'Start an Idea',
     'explore' => 'Explore',
     'about' => 'About',
     'login' => 'Login',

@@ -1,20 +1,20 @@
 <?php
 
 return [
-    'create_poll' => 'Create Poll',
-    'edit_poll' => 'Edit Poll',
+    'create_poll' => 'Ask Question',
+    'edit_poll' => 'Edit Question',
 
-    'name_your_poll' => 'Name your Poll',
-    'describe_your_poll' => 'Describe your Poll',
+    'name_your_poll' => 'What is your question?',
+    'describe_your_poll' => 'A little more information',
 
-    'name_label' => 'Choose a name that is short but self explanatory e.g. Pick the Venue',
-    'description_label' => 'Add a short description of your Poll, this should include the expected outcomes',
-	'pinned_label' => 'Pin this design task (disable voting)',
-	'locked_label' => 'Prevent others from submitting poll options',
+    'name_label' => 'What is your question?',
+    'description_label' => 'Add a little more information. For example, why are you asking this question? What type of answers are you looking for?',
+	'pinned_label' => 'Pin this question (pinned questions are important and always stay at the top of the design dashboard)',
+	'locked_label' => 'Only you may submit answers to this question (stops other people from submitting answers, although they can still vote on their favourite)',
 
-    'name_placeholder' => 'Poll name',
-    'description_placeholder' => 'Poll description',
+    'name_placeholder' => 'E.g. What topics should we choose?',
+    'description_placeholder' => 'A little more information...',
 
     'save_changes' => 'Save Changes',
-    'create_poll' => 'Create Poll',
+    'create_poll' => 'Ask Question',
 ];

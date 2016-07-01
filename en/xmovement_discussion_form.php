@@ -10,7 +10,7 @@ return [
     'name_label' => 'What is the topic of your discussion?',
     'description_label' => 'Start the discussion with a comment or question',
 	'pinned_label' => 'Pin this talking point (pinned talking points are important and always stay at the top of the Get Involved dashboard)',
-    'name_placeholder' => 'Whats the topic?',
+    'name_placeholder' => 'E.g. What do people think about...',
     'description_placeholder' => 'Be the first to comment...',
 
     'save_changes' => 'Save Changes',

@@ -2,9 +2,9 @@
 
 return [
 	'scheduler' => 'Scheduler',
-	'scheduler_description' => 'Use this to arrange a date and time. You and other supporters can suggest times, then vote on your favourites. It’s a good way to find out people’s availabilities.',
+	'scheduler_description' => 'Use the scheduler to arrange a date and time. You and other supporters can suggest times, then vote on your favourites. It’s a good way to find out people’s availabilities.',
 	'poll' => 'Ask a Question',
-	'poll_description' => 'Ask a question about the course. You and other supporters can submit answers to this question. Supporters can then vote on their favourite answers. For example you might ask questions about the topics to be covered, the level the course should be taught at, where it should be held, anything!',
+	'poll_description' => 'Ask a question about the course. You and other supporters can submit answers to this question. Supporters can then vote on their favourite answers. For example you might ask questions about the topics to be covered, the level of course, where it should be held, anything!',
 	'requirement' => 'Requirement',
 	'requirement_description' => 'A requirement is useful if you need a set number of things for an event for example you may need 6 people to present or 4 cameras to record the event. People can nominate themselves to meet a requirement or invite others by email to take responsibility.',
 	'contribution' => 'Contribution',
@@ -12,5 +12,5 @@ return [
 	'external' => 'External',
 	'external_description' => 'An external resource can be any open resource hosted on an external site. An example might be an online whiteboard or group video chat.',
 	'discussion' => 'Discussion',
-	'discussion_description' => 'A discussion is useful when you want a conversation about your course idea. They are like a forum where people can post comments and reply around a particular topic, and are a good way of engaging with supporters.',
+	'discussion_description' => 'A discussion is useful when you want a conversation about your course idea. They are a forum where people can post comments and replies around a particular topic, and are a good way of building a community.',
 ];

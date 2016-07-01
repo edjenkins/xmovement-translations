@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'tagline' => 'Make your course idea a reality at Newcastle University Library!',
+    'tagline' => 'Make your course idea a reality at Newcastle University Library',
     'get_started' => 'Start your idea',
     'featured_ideas' => 'Featured Course Ideas',
 ];

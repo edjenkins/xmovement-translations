@@ -17,7 +17,7 @@ return [
 
 	'added_x_ago' => 'Added :time',
 	'added_by_x_x' => 'Added by :name :time',
-	'Posted by <a href=":url">:name</a>',
+	'posted_by_x' => 'Posted by :name',
 	'winner' => 'WINNER',
 
 	// Walkthrough

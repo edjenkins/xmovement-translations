@@ -12,6 +12,8 @@ return [
     'profile_updated' => 'Your profile was updated',
     'no_permission' => 'You do not have permission to do that',
 
+	'design_phase_opened' => 'Design Phase is now open',
+
 	'idea_not_found' => 'Idea not found',
 	'user_not_found' => 'User not found',
 	'page_not_found' => 'Page not found',

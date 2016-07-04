@@ -2,6 +2,7 @@
 
 return [
 	'support_this_idea' => 'Support this Idea',
+	'open_design_phase' => 'Open Design Phase',
 	'design_dashboard' => 'Get Involved',
 	'browse_proposals' => 'View Blueprints',
 	'edit_idea' => 'Edit this Idea',

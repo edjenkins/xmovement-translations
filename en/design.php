@@ -9,6 +9,4 @@ return [
 	'dashboard' => 'Get Involved Dashboard',
 	'view_proposals' => 'View Blueprints',
 	'back_to_idea' => 'Back to Idea',
-
-//TODO wrap string in propose page properly. Currently it is pointing to back_to_dashboard but needs to be changed to back_to_idea
 ];

@@ -12,7 +12,6 @@ return [
 	'news' => 'News',
 	'messages' => 'Messages',
 
-	//TODO fix typo for this found on profile page
 	'no_messages' => 'You have no messages',
 	'no_news' => 'You have no news',
 ];

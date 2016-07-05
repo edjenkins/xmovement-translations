@@ -8,7 +8,6 @@ return [
 
 	'your_proposal' => 'Your Blueprint',
 
-	//TODO Change Add Proposal dotted line box to read, Make a new Blueprint
 	'add_proposal' => 'Make a new Blueprint',
 	'delete_proposal' => 'Delete Blueprint',
 	'view_proposal' => 'View Blueprint',

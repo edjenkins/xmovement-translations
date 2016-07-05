@@ -4,15 +4,15 @@ return [
     'create_discussion' => 'Create Discussion',
     'edit_discussion' => 'Edit Discussion',
 
-    'name_your_discussion' => 'What is the topic of your discussion?',
+    'name_your_discussion' => 'Name your Discussion',
     'describe_your_discussion' => 'Describe your Discussion',
 
-    'name_label' => 'What is the topic of your discussion?',
-    'description_label' => 'Start the discussion with a comment or question',
-	'pinned_label' => 'Pin this talking point (pinned talking points are important and always stay at the top of the Get Involved dashboard)',
-    'name_placeholder' => 'E.g. What do people think about...',
-    'description_placeholder' => 'Be the first to comment...',
+    'name_label' => 'Choose a name that is short but self explanatory e.g. Let\'s discuss the event',
+    'description_label' => 'Start the discussion with a question or a statement e.g. Does anyone have ideas for the theme?',
+	'pinned_label' => 'Pin this design task (disable voting)',
+    'name_placeholder' => 'Discussion name',
+    'description_placeholder' => 'Start the discussion',
 
     'save_changes' => 'Save Changes',
-    'create_discussion' => 'Start the Discussion',
+    'create_discussion' => 'Create Discussion',
 ];

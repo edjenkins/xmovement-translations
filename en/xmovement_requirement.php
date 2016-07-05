@@ -6,7 +6,7 @@ return [
 	'invite' => 'Invite someone you know',
 	'you_filled_this_requirement' => 'You have filled this requirement (undo)',
 
-	'proposal_tip' => 'Select one or more filled requirements',
+	'proposal_tip' => 'Select one or more poll options',
 	'added_at_x_by_x' => 'Added :time by :name',
 
 	// Modals

@@ -2,7 +2,7 @@
 
 return [
 	'support_this_idea' => 'Support this Idea',
-	'open_design_phase' => 'Open Design Phase',
+	'open_design_phase' => 'Start Get Involved Phase',
 	'design_dashboard' => 'Get Involved',
 	'browse_proposals' => 'View Blueprints',
 	'edit_idea' => 'Edit this Idea',
@@ -48,4 +48,9 @@ return [
 	'progress_design' => 'Get Involved',
 	'progress_propose' => 'Blueprint',
 	'progress_complete' => 'Complete',
+
+	// Open Design Phase Modal
+	'open_design_phase_early' => 'Start Get Involved Phase Early',
+	'open_design_phase_early_header' => 'As the idea creator you can start the Get Involved phase at any time. This will allow you and your supporters to start contributing to the design of your idea.'
+	'open_design_phase_early_subheader' => 'Once the Get Involved phase has started there is no going back so make sure you are happy with the number of supporters before continuing.'
 ];

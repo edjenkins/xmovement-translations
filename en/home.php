@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'tagline' => 'Make your course idea a reality at Newcastle University Library',
+    'tagline' => 'Make your event idea a reality',
     'get_started' => 'Start your idea',
-    'featured_ideas' => 'Featured Course Ideas',
+    'featured_ideas' => 'Featured Ideas',
 ];
 
 /* Some more ideas for the home page

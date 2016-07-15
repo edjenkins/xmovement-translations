@@ -7,6 +7,6 @@ return [
 	'back_to_dashboard' => 'Back to Dashboard',
 	'design_dashboard' => 'Get Involved Dashboard',
 	'dashboard' => 'Get Involved Dashboard',
-	'view_proposals' => 'View Blueprints',
+	'view_proposals' => 'View Plans',
 	'back_to_idea' => 'Back to Idea',
 ];

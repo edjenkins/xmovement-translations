@@ -1,7 +1,7 @@
 <?php
 
 return [
-	'brand' => 'LibraryMovement',
+	'brand' => 'EventMovement',
     'idea' => 'idea|ideas',
     'Idea' => 'Idea|Ideas',
     'ideas' => 'ideas',

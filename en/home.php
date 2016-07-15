@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'tagline' => 'Make your course idea a reality at Newcastle University Library',
+    'tagline' => 'Make your idea a reality at Newcastle University Library',
     'get_started' => 'Start your idea',
-    'featured_ideas' => 'Featured Course Ideas',
+    'featured_ideas' => 'Featured Event Ideas',
 ];
 
 /* Some more ideas for the home page
@@ -21,7 +21,7 @@ Start an idea for a course with just a few clicks. Share it with your friends to
 Work with other students to develop and shape the idea. Vote to have your voice heard and join in with the discussion.
 
 3.	Make it Happen
-The library will respond to your idea with a blueprint for the course. Show the blueprint your support, or make your own blueprint for what the final course should be.
+The library will respond to your idea with a plan for the course. Show the plan your support, or make your own plan for what the final course should be.
 
  [Learn More] button (goes to about page)
 

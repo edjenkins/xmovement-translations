@@ -18,16 +18,32 @@ return [
 	'confirm_support' => 'Confirm Support',
 	'confirm_support_description' => 'Please confirm your support by completing the CAPTCHA below.',
 
-	'proposals' => 'Blueprints',
-	'view_all_proposals' => 'View all',
 	'discussion' => 'Discussion',
+
+	// Design Tasks
+	'first_to_add_design_task' => 'Be the first to add a design task',
+	'no_design_tasks_added_yet' => 'No design tasks added yet',
+	'design_tasks' => 'Design Tasks',
+	'view_all_design_tasks' => 'View all design tasks',
+
+	// Proposals
+	'first_to_add_proposal' => 'Be the first to add a proposal',
+	'no_proposals_added_yet' => 'No proposals added yet',
+	'proposals' => 'Blueprints',
+	'view_all_proposals' => 'View all proposals',
+	'updates' => 'Updates',
+	'updated_posted_x' => 'Update posted :time',
+	'update_text_placeholder' => 'Share an update with your supporters',
+	'update_button_idle' => 'Post',
+	'update_button_posting' => 'Posting',
+	'update_delete_confirmation' => 'Are you sure you want to remove this update?',
 
 	// Sorting
 	'sort_recent' => 'Recent',
 	'sort_popular' => 'Popular',
 
 	// Tiles
-	'posted_by' => 'Posted by',
+	'posted_by' => 'by',
 
 	// Invite
 	'invite_some_friends' => 'Spread the word!',
@@ -53,4 +69,8 @@ return [
 	'open_design_phase_early' => 'Start Get Involved Phase Early',
 	'open_design_phase_early_header' => 'As the idea creator you can start the Get Involved phase at any time. This will allow you and your supporters to start contributing to the design of your idea.',
 	'open_design_phase_early_subheader' => 'Once the Get Involved phase has started there is no going back so make sure you are happy with the number of supporters before continuing.',
+
+	// Notifications
+	'design_phase_open_notification' => 'The Design Phase is now open, click the Get Involved button to start designing your Idea with the community.',
+	'proposal_phase_open_notification' => 'The Proposal Phase is now open, click the Browse Blueprints button to view and submit proposals.',
 ];

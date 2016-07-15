@@ -25,4 +25,12 @@ return [
 	'support_phase_locked' => 'The support phase is locked',
 	'design_phase_locked' => 'The get invovled phase is locked',
 	'proposal_phase_locked' => 'The blueprint phase is locked',
+
+	'direct_message_sent' => 'Your message has been sent',
+	'direct_message_sent_via_email' => 'Your message has been sent via email',
+
+	// Voting
+	'vote_twice_error' => 'You can\'t vote twice',
+	'vote_up_twice_error' => 'You can\'t vote up twice',
+	'vote_down_twice_error' => 'You can\'t vote down twice',
 ];

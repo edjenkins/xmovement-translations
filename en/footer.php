@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'brand' => 'XMovement 2016 ©',
+    'brand' => 'EventMovement 2016 ©',
     'contact' => 'Contact',
     'terms' => 'Terms',
 	'start_translating' => 'Translate',

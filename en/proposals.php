@@ -1,16 +1,17 @@
 <?php
 
 return [
-	'proposal' => 'Proposal',
-	'proposals' => 'Proposals',
+	'proposal' => 'Blueprint',
+	'proposals' => 'Blueprints',
 
-	'back_to_proposals' => 'Back to Proposals',
+	'back_to_proposals' => 'Back to Blueprints',
 
-	'your_proposal' => 'Your Proposal',
-	'add_proposal' => 'Add Proposal',
-	'delete_proposal' => 'Delete Proposal',
-	'view_proposal' => 'View Proposal',
-	'submit_proposal' => 'Submit Proposal',
+	'your_proposal' => 'Your Blueprint',
+
+	'add_proposal' => 'Make a new Blueprint',
+	'delete_proposal' => 'Delete Blueprint',
+	'view_proposal' => 'View Blueprint',
+	'submit_proposal' => 'Submit Blueprint',
 	'save_for_later' => 'Save for later',
 	'get_started' => 'Get Started',
 	'maybe_later' => 'Maybe later',
@@ -21,25 +22,25 @@ return [
 	'winner' => 'WINNER',
 
 	// Walkthrough
-	'step_one' => 'Select the design tasks you would like to include in your proposal',
-	'step_two' => 'You will then be taken through each selected task and asked to choose one or more contributions from each',
-	'step_three' => 'Finally, review your proposal and add text to your proposal to explain decisions you have made and how the selected items work together',
+	'step_one' => 'Select the talking points you would like to include in your Blueprint',
+	'step_two' => 'You will then be asked to choose one or more contributions from each. Pick the ones that work best and are popular choices',
+	'step_three' => 'Finally, review your Blueprint and add comments to explain the decisions you\'ve made and why you think your Blueprint works',
 
 	'previous' => 'Previous',
 	'next' => 'Next',
 	'cancel' => 'Cancel',
 
-	'select_design_tasks' => 'Select Design Tasks',
-	'select_design_tasks_subtitle' => 'Select the tasks you would like to include in your proposal',
+	'select_design_tasks' => 'Select Talking Points',
+	'select_design_tasks_subtitle' => 'Select the talking points you would like to include in your Blueprint',
 
-	'add_to_proposal' => 'Add to Proposal',
-	'remove_from_proposal' => 'Remove from Proposal',
+	'add_to_proposal' => 'Add to Blueprint',
+	'remove_from_proposal' => 'Remove from Blueprint',
 
-	'review_proposal' => 'Review Proposal',
-	'review_proposal_subtitle' => 'Finalise your proposal by reordering elements and adding comments',
+	'review_proposal' => 'Review Blueprint',
+	'review_proposal_subtitle' => 'Finalise your Blueprint by reordering elements and adding comments',
 
 	'description' => 'Description',
-	'description_placeholder' => 'Describe your proposal...',
-	'submit_confirmation' => 'Are you sure you want to submit this proposal?',
-	'submit_proposal' => 'Submit Proposal',
+	'description_placeholder' => 'Describe your Blueprint...',
+	'submit_confirmation' => 'Are you sure you want to submit this Blueprint?',
+	'submit_proposal' => 'Submit Blueprint',
 ];

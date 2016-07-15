@@ -5,9 +5,8 @@ return [
 	'fill_requirement' => 'Fill this requirement',
 	'invite' => 'Invite someone you know',
 	'you_filled_this_requirement' => 'You have filled this requirement (undo)',
-	'you_filled_this_requirement_locked' => 'You have filled this requirement',
 
-	'proposal_tip' => 'Select one or more filled requirements',
+	'proposal_tip' => 'Select one or more poll options',
 	'added_at_x_by_x' => 'Added :time by :name',
 
 	// Modals

@@ -34,7 +34,7 @@ return [
 	'phone_number' => 'Phone Number',
 	'phone_number_placeholder' => 'Your phone number',
 
-	'avatar' => 'Avatar',
+	'avatar' => 'Your picture',
 	'header_image' => 'Header Image',
 
 	'update' => 'Update',

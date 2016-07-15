@@ -1,13 +1,12 @@
 <?php
 
 return [
-	'add_design_task' => 'Add Design Task',
-	'delete_task' => 'Delete Task',
+	'add_design_task' => 'Add Talking Point',
+	'delete_task' => 'Delete Talking Point',
 	'report_content' => 'Report Content',
 	'back_to_dashboard' => 'Back to Dashboard',
-	'design_dashboard' => 'Design Dashboard',
-	'dashboard' => 'Dashboard',
-	'view_proposals' => 'View Proposals',
+	'design_dashboard' => 'Get Involved Dashboard',
+	'dashboard' => 'Get Involved Dashboard',
+	'view_proposals' => 'View Blueprints',
 	'back_to_idea' => 'Back to Idea',
-
 ];

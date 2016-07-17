@@ -29,7 +29,7 @@ return [
 	// Proposals
 	'first_to_add_proposal' => 'Be the first to add a plan',
 	'no_proposals_added_yet' => 'No plans added yet',
-	'proposals' => 'plans',
+	'proposals' => 'Plans',
 	'view_all_proposals' => 'View all plans',
 	'updates' => 'Updates',
 	'updated_posted_x' => 'Update posted :time',

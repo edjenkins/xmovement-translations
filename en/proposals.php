@@ -1,8 +1,8 @@
 <?php
 
 return [
-	'proposal' => 'plan',
-	'proposals' => 'plans',
+	'proposal' => 'Plan',
+	'proposals' => 'Plans',
 
 	'back_to_proposals' => 'Back to plans',
 

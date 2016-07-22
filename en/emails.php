@@ -2,7 +2,7 @@
 
 return [
 	// Subjects
-	'welcome_subject' => 'Welcome to XMovement',
+	'welcome_subject' => 'Welcome to EventMovement',
 	'create_idea_subject' => 'You\'ve started an Idea',
 	'update_posted_subject' => ':user_name has posted an update',
 	'invite_subject' => ':name has sent you an invitation',

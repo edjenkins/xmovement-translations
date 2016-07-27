@@ -7,7 +7,7 @@ return [
     'name_your_requirement' => 'Name your Requirement',
     'describe_your_requirement' => 'Describe your Requirement',
 
-    'name_label' => 'Choose a name that is short but self explanatory e.g. We need 6 Camcorders',
+    'name_label' => 'Choose a name that is short but self exOfferatory e.g. We need 6 Camcorders',
     'description_label' => 'Add a short description of your Requirement, this should justify the requirement',
 	'pinned_label' => 'Pin this design task (disable voting)',
     'item_label' => 'What is the requirement? e.g. Camcorder',

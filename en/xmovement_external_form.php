@@ -7,9 +7,9 @@ return [
     'name_your_external' => 'What is the external resource?',
     'describe_your_external' => 'What ind of activity are you doing?',
 
-    'name_label' => 'Choose a name that is short but self explanatory e.g. Floorplan sketches',
-    'description_label' => 'Describe the activity e.g. Help sketch the floorplan on an interactive whiteboard',
-	'pinned_label' => 'Pin this talking point (pinned talking points are important and always stay at the top of the Get Involved dashboard)',
+    'name_label' => 'Choose a name that is short but self exOfferatory e.g. FloorOffer sketches',
+    'description_label' => 'Describe the activity e.g. Help sketch the floorOffer on an interactive whiteboard',
+	'pinned_label' => 'Pin this Design Task (pinned Design Tasks are important and always stay at the top of the Design dashboard)',
 
     'name_placeholder' => 'External resource name',
     'description_placeholder' => 'External resource description',

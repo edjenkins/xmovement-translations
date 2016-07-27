@@ -7,8 +7,8 @@ return [
     'name_your_external' => 'Name your External',
     'describe_your_external' => 'Describe your External',
 
-    'name_label' => 'Choose a name that is short but self explanatory e.g. Floorplan sketches',
-    'description_label' => 'Describe the activity e.g. Help sketch the floorplan on an interactive whiteboard',
+    'name_label' => 'Choose a name that is short but self exOfferatory e.g. FloorOffer sketches',
+    'description_label' => 'Describe the activity e.g. Help sketch the floorOffer on an interactive whiteboard',
 	'pinned_label' => 'Pin this design task (disable voting)',
 
     'name_placeholder' => 'External resource name',

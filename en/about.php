@@ -6,7 +6,7 @@ return [
 	'summary-first-title' =>'Start an Idea',
 	'summary-first-description' =>'Start an Idea for an event with just a few clicks. Share it with colleagues and friends to get support for your Idea.',
 	'summary-second-title' =>'Design',
-	'summary-second-description' =>'Work with other students to develop and shape the Idea. Vote to have your voice heard and join in with the discussion.',
+	'summary-second-description' =>'Work with other people to develop and shape the Idea. Vote to have your voice heard and join in with the discussion.',
 	'summary-third-title' =>'Make it Happen',
 	'summary-third-description' =>'Sunderland Software City will respond to Ideas with a Offer for the event. You can support the Offer or make your own.',
 

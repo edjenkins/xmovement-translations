@@ -10,7 +10,7 @@ return [
 	'design_phase_open_subject' => 'Start designing',
 	'design_phase_updates_subject' => 'Design updates',
 	'proposal_phase_complete_subject' => 'Offer phase is complete',
-	'proposal_phase_open_subject' => 'Submit your proposal',
+	'proposal_phase_open_subject' => 'Submit your Offer',
 	'proposal_phase_updates_subject' => 'Offer updates',
 	'support_phase_updates_subject' => 'Support updates',
 	'xmovement_requirement_invite_subject' => 'You have been nomintated by :name',

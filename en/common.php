@@ -1,7 +1,7 @@
 <?php
 
 return [
-	'brand' => 'App Competition',
+	'brand' => 'EventMovement',
     'idea' => 'idea|ideas',
     'Idea' => 'Idea|Ideas',
     'ideas' => 'ideas',

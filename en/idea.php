@@ -27,10 +27,10 @@ return [
 	'view_all_design_tasks' => 'View all design tasks',
 
 	// Proposals
-	'first_to_add_proposal' => 'Be the first to add a proposal',
-	'no_proposals_added_yet' => 'No proposals added yet',
+	'first_to_add_proposal' => 'Be the first to make an Offer',
+	'no_proposals_added_yet' => 'No Offers added yet',
 	'proposals' => 'Offers',
-	'view_all_proposals' => 'View all proposals',
+	'view_all_proposals' => 'View all Offers',
 	'updates' => 'Updates',
 	'updated_posted_x' => 'Update posted :time',
 	'update_text_placeholder' => 'Share an update with your supporters',
@@ -48,7 +48,7 @@ return [
 	// Invite
 	'invite_some_friends' => 'Spread the word!',
 	'congratulations' => 'Congratulations',
-	'invite_description' => 'Start the ball rolling by inviting some colleagues! Enter their names and emails below and we will them send a message.',
+	'invite_description' => 'Start the ball rolling by inviting colleagues and friends! Enter their names and emails below and we will them send a message.',
 
 	'name_placeholder' => 'Name',
 	'email_placeholder' => 'Email',

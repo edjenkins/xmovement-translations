@@ -3,7 +3,11 @@
 return [
 	'scheduler' => 'Scheduler',
 	'scheduler_description' => 'Use the scheduler to arrange a date and time. You and other supporters can suggest times, then vote on your favourites. It’s a good way to find out people’s availabilities.',
+<<<<<<< HEAD
 	'poll' => 'Start a Poll',
+=======
+	'poll' => 'Start a poll',
+>>>>>>> 236d98cf12de1324031029261c47f6fcc4dcb0df
 	'poll_description' => 'Set a poll about the event. You and other supporters can submit answers to this poll. Supporters can then vote on their favourite answers. For example you might ask questions about the topics to be covered, the level of event, where it should be held, anything!',
 	'requirement' => 'Requirement',
 	'requirement_description' => 'A requirement is useful if you need a set number of things for an event for example you may need 6 people to present or 4 cameras to record the event. People can nominate themselves to meet a requirement or invite others by email to take responsibility.',

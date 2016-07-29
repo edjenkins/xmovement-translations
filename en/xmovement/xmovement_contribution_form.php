@@ -7,7 +7,7 @@ return [
     'name_your_contribution' => 'Name your Contribution',
     'describe_your_contribution' => 'Describe your Contribution',
 
-    'name_label' => 'Choose a name that is short but self explanatory e.g. Pick the Venue',
+    'name_label' => 'Choose a name that is short but self exOfferatory e.g. Pick the Venue',
     'description_label' => 'Add a short description of your Contribution, this should include the expected outcomes',
 	'pinned_label' => 'Pin this design task (disable voting)',
 	'locked_label' => 'Prevent others from submitting contributions',

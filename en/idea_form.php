@@ -15,21 +15,12 @@ return [
     'photo_label' => 'Express your Idea with an image',
     'visibility_label' => 'Do you want this Idea to be public? (Public Ideas are visible on the Explore page)',
 
-<<<<<<< HEAD
 	'proposals_during_design_label' => 'Start the Plan It phase at the same time as the Get Involved phase',
 	'design_during_support_label' => 'Start the Get Involved phase straight away',
 
 	'supporters_target_label' => 'Target number of supporters',
 
 	'duration_label' => 'Each idea goes through the Support, Get Involved and Plan It phases before it is complete. Pick a duration for your idea in days.',
-=======
-	'proposals_during_design_label' => 'Start the Offer phase at the same time as the Design phase',
-	'design_during_support_label' => 'Start the Design phase straight away',
-
-	'supporters_target_label' => 'Target number of supporters',
-
-	'duration_label' => 'Each Idea goes through the Support, Design and Offer phases before it is complete. Pick a duration for your Idea in days.',
->>>>>>> 236d98cf12de1324031029261c47f6fcc4dcb0df
 
     'name_placeholder' => 'E.g. Study Skills Training...',
     'supporters_target_placeholder' => '0',

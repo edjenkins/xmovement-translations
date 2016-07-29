@@ -9,7 +9,7 @@ return [
 
     'name_label' => 'What is it that you need?',
     'description_label' => 'Why do you have this requirement?',
-	'pinned_label' => 'Pin this Design Task (pinned Design Tasks are important and always stay at the top of the Design dashboard',
+	'pinned_label' => 'Pin this talking point (pinned talking points are important and always stay at the top of the Get Involved dashboard',
     'item_label' => 'What is the requirement? e.g. Whiteboards, laptops',
     'count_label' => 'How many are required?',
 

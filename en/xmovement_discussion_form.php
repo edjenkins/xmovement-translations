@@ -9,7 +9,7 @@ return [
 
     'name_label' => 'What is the topic of your discussion?',
     'description_label' => 'Start the discussion with a comment or question',
-	'pinned_label' => 'Pin this Design Task (pinned Design Tasks are important and always stay at the top of the Design dashboard)',
+	'pinned_label' => 'Pin this talking point (pinned talking points are important and always stay at the top of the Get Involved dashboard)',
     'name_placeholder' => 'Whats the topic?',
     'description_placeholder' => 'Be the first to comment...',
 

@@ -9,8 +9,8 @@ return [
 
     'name_label' => 'What are you wanting people to contribute to?',
     'description_label' => 'Add a little more information about the contribtuions, what should they include for example?',
-	'pinned_label' => 'Pin this Design Task (pinned Design Tasks are important and always stay at the top of the Design dashboard)',
-	'locked_label' => 'Close submissions (stops anyone but you from submitting to this Design Task, although they can still vote)',
+	'pinned_label' => 'Pin this talking point (pinned talking points are important and always stay at the top of the Get Involved dashboard)',
+	'locked_label' => 'Close submissions (stops anyone but you from submitting to this talking point, although they can still vote)',
     'type_label' => 'What format of contribution do you want people to submit?',
 
     'name_placeholder' => 'E.g. Poster designs',

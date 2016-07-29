@@ -1,7 +1,6 @@
 <?php
 
 return [
-<<<<<<< HEAD
     'tagline' => 'Make your idea a reality at Newcastle University Library',
     'get_started' => 'Start your idea',
     'featured_ideas' => 'Featured Event Ideas',
@@ -27,9 +26,3 @@ The library will respond to your idea with a plan for the course. Show the plan 
  [Learn More] button (goes to about page)
 
 */
-=======
-    'tagline' => 'Make your event idea a reality at Sunderland Software City',
-    'get_started' => 'Start your idea',
-    'featured_ideas' => 'Featured event ideas',
-];
->>>>>>> 236d98cf12de1324031029261c47f6fcc4dcb0df

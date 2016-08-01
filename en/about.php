@@ -8,7 +8,7 @@ return [
 	'summary-second-title' =>'Design',
 	'summary-second-description' =>'Work with other people to develop and shape the Idea. Vote to have your voice heard and join in with the discussion.',
 	'summary-third-title' =>'Make it Happen',
-	'summary-third-description' =>'Sunderland Software City will respond to Ideas with a Offer for the event. You can support the Offer or make your own.',
+	'summary-third-description' =>'Sunderland Software City will respond to Ideas with an Offer for the event. You can support the Offer or make your own.',
 
 	'about-phase-title' => 'An Idea goes through three phases...',
 

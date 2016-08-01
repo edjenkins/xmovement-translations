@@ -15,4 +15,6 @@ return [
 	'support_phase_updates_subject' => 'Support updates',
 	'xmovement_requirement_invite_subject' => 'You have been nomintated by :name',
 	'direct_message_subject' => 'You have received a direct message from :user_name',
+
+	'contact_email_subject' => ':name has sent a message',
 ];

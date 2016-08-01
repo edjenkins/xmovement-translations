@@ -29,6 +29,9 @@ return [
 	'direct_message_sent' => 'Your message has been sent',
 	'direct_message_sent_via_email' => 'Your message has been sent via email',
 
+	'contact_message_sent' => 'Your message has been sent',
+	'contact_message_failed' => 'Your message failed to send',
+
 	// Voting
 	'vote_twice_error' => 'You can\'t vote twice',
 	'vote_up_twice_error' => 'You can\'t vote up twice',

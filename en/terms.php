@@ -1,7 +1,7 @@
 <?php
 
-return [
-    'tagline' => 'The small print',
-	'terms_and_conditions' => 'Terms & Conditions',
-	'privacy_policy' => 'Privacy Policy',
-];
+return array (
+  'tagline' => 'The small print',
+  'terms_and_conditions' => 'Terms & Conditions',
+  'privacy_policy' => 'Privacy Policy',
+);

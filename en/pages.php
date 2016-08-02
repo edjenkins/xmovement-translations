@@ -1,5 +1,5 @@
 <?php
 
-return [
-    'explore' => 'Explore Ideas',
-];
+return array (
+  'explore' => 'Explore Ideas',
+);

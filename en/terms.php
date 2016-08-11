@@ -1,7 +1,7 @@
 <?php
 
-return [
-    'tagline' => 'The small print',
-];
-
-//TODO add content!
+return array (
+  'tagline' => 'The small print',
+  'terms_and_conditions' => 'Terms',
+  'privacy_policy' => 'Privacy',
+);

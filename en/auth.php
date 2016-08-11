@@ -24,4 +24,5 @@ return array (
   'forgot_your_password' => 'Forgot Your Password?',
   'have_an_account' => 'Already have an account?',
   'facebook_login' => 'Log in with Facebook',
+  'linkedin_login' => 'Log in with Linkedin',
 );

@@ -26,4 +26,5 @@ return array (
   'vote_twice_error' => 'You can\'t vote twice',
   'vote_up_twice_error' => 'You can\'t vote up twice',
   'vote_down_twice_error' => 'You can\'t vote down twice',
+  'contact_message_sent' => 'Your message has been sent',
 );

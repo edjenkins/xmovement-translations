@@ -12,4 +12,5 @@ return array (
   'translate' => 'Translate',
   'stop_translating' => 'Stop Translating',
   'preferences' => 'Preferences',
+  'analytics' => 'Analytics',
 );

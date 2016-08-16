@@ -16,5 +16,6 @@ return array (
     'email_address_placeholder' => 'Email Address',
     'custom_message_placeholder' => 'Write a custom message here...',
     'send' => 'Send Invitation',
+    'email_placeholder' => 'Email Address',
   ),
 );

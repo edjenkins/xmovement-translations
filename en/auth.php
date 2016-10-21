@@ -24,4 +24,7 @@ return array (
   'forgot_your_password' => 'Forgot Your Password?',
   'have_an_account' => 'Already have an account?',
   'facebook_login' => 'Log in with Facebook',
+  'linkedin_login' => 'Log in with LinkedIn',
+  'authenticate_with_a_provider' => 'Please authenticate with a provider below.',
+  'shibboleth_login' => 'Log in with Shibboleth',
 );

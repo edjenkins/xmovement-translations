@@ -26,4 +26,10 @@ return array (
   'vote_twice_error' => 'You can\'t vote twice',
   'vote_up_twice_error' => 'You can\'t vote up twice',
   'vote_down_twice_error' => 'You can\'t vote down twice',
+  'contact_message_sent' => 'Message sent',
+  'content_reported' => 'Content reported',
+  'something_went_wrong' => 'Something went wrong',
+  'inspiration_unfavourited' => 'Inspiration unfavourited',
+  'inspiration_favourited' => 'Inspiration favourited',
+  'inspiration_deleted' => 'Inspiration deleted',
 );

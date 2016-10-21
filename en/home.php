@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'tagline' => 'Make your idea a reality at Newcastle University Library',
+  'tagline' => 'Help design technology to support people affected by self-harm',
   'get_started' => 'Start your idea',
   'featured_ideas' => 'Featured Event Ideas',
 );

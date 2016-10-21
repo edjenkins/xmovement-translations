@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'create' => 'Start an Idea',
+  'create' => 'Post Idea',
   'explore' => 'Explore',
   'about' => 'About',
   'login' => 'Login',
@@ -13,4 +13,5 @@ return array (
   'stop_translating' => 'Stop Translating',
   'preferences' => 'Preferences',
   'analytics' => 'Analytics',
+  'inspiration' => 'Inspiration',
 );

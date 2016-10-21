@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'create_idea' => 'Start Idea',
+  'create_idea' => 'Post Idea',
   'edit_idea' => 'Edit Idea',
   'name_your_idea' => 'Start your Idea',
   'describe_your_idea' => 'A little more detail',
@@ -16,7 +16,7 @@ return array (
   'design_during_support_label' => 'Start the Get Involved phase straight away',
   'supporters_target_label' => 'Target number of supporters',
   'duration_label' => 'Each idea goes through the Support, Get Involved and Plan It phases before it is complete. Pick a duration for your idea in days.',
-  'name_placeholder' => 'E.g. Study Skills Training...',
+  'name_placeholder' => 'A descriptive name...',
   'supporters_target_placeholder' => '0',
   'next_step' => 'Next Step',
   'previous_step' => 'Previous Step',

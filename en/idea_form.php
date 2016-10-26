@@ -21,4 +21,10 @@ return array (
   'next_step' => 'Next Step',
   'previous_step' => 'Previous Step',
   'save_changes' => 'Save Changes',
+  'description_placeholder' => 'Describe your idea to those who may be interested...',
+  'questions' => 'Ask Some Questions',
+  'questions_label' => 'What questions would you like to ask your supporters in the design phase to help shape your idea?',
+  'question_1_placeholder' => 'An example question',
+  'question_2_placeholder' => 'An example question',
+  'question_3_placeholder' => 'An example question',
 );

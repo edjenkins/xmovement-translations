@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'brand' => 'EventMovement',
+  'brand' => 'LaunchSpot',
   'idea' => 'Idea|Ideas',
   'ideas' => 'Ideas',
   'or' => 'or',

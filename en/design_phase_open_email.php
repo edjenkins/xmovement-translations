@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'header' => 'Great news, the Get Involved Phase for :idea_name has just opened!',
+  'header' => 'Great news, the Design Phase for :idea_name has just opened!',
   'line_1' => 'Now you can help develop the idea through by joining in with discussion and creating your own talking points.',
   'line_2' => 'Join in with talking points to chip in your thoughts and suggestions.',
   'line_3' => 'Add new talking points to help develop the idea further',

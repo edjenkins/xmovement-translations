@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'welcome_subject' => 'Welcome to EventMovement',
+  'welcome_subject' => 'Welcome to LaunchSpot',
   'create_idea_subject' => 'You\'ve started an Idea',
   'update_posted_subject' => ':user_name has posted an update',
   'invite_subject' => ':name wants you to support their idea',

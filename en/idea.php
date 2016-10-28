@@ -52,4 +52,7 @@ return array (
   'open_design_phase_early_subheader' => 'Once the Get Involved phase has started there is no going back so make sure you are happy with the number of supporters before continuing.',
   'design_phase_open_notification' => 'The Get Involved Phase is now open, click the Get Involved button to start designing your Idea with the community.',
   'proposal_phase_open_notification' => 'The Plan It Phase is now open, click the Browse plans button to view and submit proposals.',
+  'supporters_modal_label' => 'The following people have supported this idea.',
+  'sort_favourites' => 'Favourites',
+  'sort_shortlist' => 'Shortlisted',
 );

@@ -32,4 +32,8 @@ return array (
   'inspiration_unfavourited' => 'Inspiration unfavourited',
   'inspiration_favourited' => 'Inspiration favourited',
   'inspiration_deleted' => 'Inspiration deleted',
+  'team_created' => 'Team Created',
+  'tender_phase_closed' => 'Tender Phase Closed',
+  'tender_deleted' => 'Tender Deleted',
+  'tender_created' => 'Tender Created',
 );

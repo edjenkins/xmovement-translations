@@ -10,4 +10,5 @@ return array (
   'done' => 'Done',
   'loading' => 'Loading',
   'no_results' => 'No Results',
+  'no_results_for_x' => 'No results for',
 );

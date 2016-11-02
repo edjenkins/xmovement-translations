@@ -52,4 +52,5 @@ return array (
   'open_design_phase_early_subheader' => 'Once the Design phase has started there is no going back so make sure you are happy with the number of supporters before continuing.',
   'design_phase_open_notification' => 'The Design Phase is now open, click the Design button to start designing your Idea with the community.',
   'proposal_phase_open_notification' => 'The Offer Phase is now open, click the Browse Offers button to view and submit Offers.',
+  'supporters_modal_label' => 'The following people have supported this idea.',
 );

@@ -8,11 +8,6 @@ return array (
   'email_placeholder' => 'e.g. hello@example.com',
   'bio' => 'Team Bio',
   'bio_placeholder' => 'A few words about what makes your team great...',
-<<<<<<< HEAD
-  'create_team' => 'Create Team',
-  'avatar' => 'Team Logo',
-=======
   'avatar' => 'Team Logo',
   'create_team' => 'Create Team',
->>>>>>> 745c80cf14de2c02e8efb21bd70fdaee9d575924
 );

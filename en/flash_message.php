@@ -1,36 +1,39 @@
 <?php
 
-return [
-    'idea_updated' => 'Idea was updated',
-    'idea_deleted' => 'Idea was deleted',
-    'design_task_updated' => 'Talking Point updated',
-    'design_task_deleted' => 'Talking Point deleted',
-	'proposal_deleted' => 'Plan deleted',
-	'proposal_updated' => 'Plan updated',
-    'invites_sent_successfully' => 'Invites were sent successfully',
-    'invites_not_sent' => 'Failed to send invites',
-    'profile_updated' => 'Your profile was updated',
-    'no_permission' => 'You do not have permission to do that',
-
-	'design_phase_opened' => 'The Get Involved phase is now open',
-
-	'idea_not_found' => 'Idea not found',
-	'user_not_found' => 'User not found',
-	'page_not_found' => 'Page not found',
-
-	'support_phase_closed' => 'The Support phase is closed',
-	'design_phase_closed' => 'The Get Invovled phase is closed',
-	'proposal_phase_closed' => 'The Plan It phase is closed',
-
-	'support_phase_locked' => 'The Support phase is locked',
-	'design_phase_locked' => 'The Get Invovled phase is locked',
-	'proposal_phase_locked' => 'The Plan It phase is locked',
-
-	'direct_message_sent' => 'Your message has been sent',
-	'direct_message_sent_via_email' => 'Your message has been sent via email',
-
-	// Voting
-	'vote_twice_error' => 'You can\'t vote twice',
-	'vote_up_twice_error' => 'You can\'t vote up twice',
-	'vote_down_twice_error' => 'You can\'t vote down twice',
-];
+return array (
+  'idea_updated' => 'Idea was updated',
+  'idea_deleted' => 'Idea was deleted',
+  'design_task_updated' => 'Talking Point updated',
+  'design_task_deleted' => 'Talking Point deleted',
+  'proposal_deleted' => 'Plan deleted',
+  'proposal_updated' => 'Plan updated',
+  'invites_sent_successfully' => 'Invites were sent successfully',
+  'invites_not_sent' => 'Failed to send invites',
+  'profile_updated' => 'Your profile was updated',
+  'no_permission' => 'You do not have permission to do that',
+  'design_phase_opened' => 'The Get Involved phase is now open',
+  'idea_not_found' => 'Idea not found',
+  'user_not_found' => 'User not found',
+  'page_not_found' => 'Page not found',
+  'support_phase_closed' => 'The Support phase is closed',
+  'design_phase_closed' => 'The Get Invovled phase is closed',
+  'proposal_phase_closed' => 'The Plan It phase is closed',
+  'support_phase_locked' => 'The Support phase is locked',
+  'design_phase_locked' => 'The Get Invovled phase is locked',
+  'proposal_phase_locked' => 'The Plan It phase is locked',
+  'direct_message_sent' => 'Your message has been sent',
+  'direct_message_sent_via_email' => 'Your message has been sent via email',
+  'vote_twice_error' => 'You can\'t vote twice',
+  'vote_up_twice_error' => 'You can\'t vote up twice',
+  'vote_down_twice_error' => 'You can\'t vote down twice',
+  'contact_message_sent' => 'Message sent',
+  'content_reported' => 'Content reported',
+  'something_went_wrong' => 'Something went wrong',
+  'inspiration_unfavourited' => 'Inspiration unfavourited',
+  'inspiration_favourited' => 'Inspiration favourited',
+  'inspiration_deleted' => 'Inspiration deleted',
+  'team_created' => 'Team Created',
+  'tender_phase_closed' => 'Tender Phase Closed',
+  'tender_deleted' => 'Tender Deleted',
+  'tender_created' => 'Tender Created',
+);

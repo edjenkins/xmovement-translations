@@ -1,7 +1,7 @@
 <?php
 
-return [
-    'tagline' => 'Get in touch',
-];
-
-//TODO add content
+return array (
+  'tagline' => 'Get in touch',
+  'send_us_an_email' => 'Send us an Email',
+  'your_message' => 'Your Message',
+);

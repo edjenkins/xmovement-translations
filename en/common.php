@@ -1,14 +1,14 @@
 <?php
 
-return [
-	'brand' => 'EventMovement',
-    'idea' => 'idea|ideas',
-    'Idea' => 'Idea|Ideas',
-    'ideas' => 'ideas',
-    'Ideas' => 'Ideas',
-
-	'or' => 'or',
-
-	'you_supported_idea' => 'You supported this idea',
-	'get_started' => 'Lets get started!',
-];
+return array (
+  'brand' => 'EventMovement',
+  'idea' => 'Idea|Ideas',
+  'ideas' => 'Ideas',
+  'or' => 'or',
+  'you_supported_idea' => 'You supported this idea',
+  'get_started' => 'Lets get started!',
+  'done' => 'Done',
+  'loading' => 'Loading',
+  'no_results' => 'No Results',
+  'no_results_for_x' => 'No results for',
+);

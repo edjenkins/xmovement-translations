@@ -13,4 +13,5 @@ return array (
   'no_messages' => 'You have no messages',
   'no_news_on_own_profile' => 'You have no news',
   'no_news_on_other_profile' => 'No news here',
+  'send_a_quote' => 'Send a Quote',
 );

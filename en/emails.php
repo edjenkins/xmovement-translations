@@ -24,4 +24,5 @@ return array (
   'live_for_x' => ':idea_name will be live for :time.',
   'view_proposals_page' => 'View Plans',
   'view_idea_page' => 'Go to Idea Page',
+  'quote_subject' => 'A little inspiration',
 );

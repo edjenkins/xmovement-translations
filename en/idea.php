@@ -52,4 +52,12 @@ return array (
   'open_design_phase_early_subheader' => 'Once the Get Involved phase has started there is no going back so make sure you are happy with the number of supporters before continuing.',
   'design_phase_open_notification' => 'The Design Phase is now open, click the Get Involved button to start designing your Idea with the community.',
   'proposal_phase_open_notification' => 'The Proposal Phase is now open, click the Browse Blueprints button to view and submit proposals.',
+  'sort_favourites' => 'Favourites',
+  'sort_shortlist' => 'Shortlist',
+  'shortlist_message' => 'The following ideas have been shortlisted by a panel of experts in the field. These ideas were chosen not only because they have received great support from the community but because they are intersting and achievable. These chosen ideas will be opened up to the community to design/develop the ideas further and be taken to the next stage.',
+  'supporters_modal_label' => 'The following people have supported this idea.',
+  'tenders' => 'Tenders',
+  'view_all_tenders' => 'View all tenders',
+  'first_to_submit_tender' => 'Be the first to submit a tender',
+  'no_tenders_added_yet' => 'No tenders added yet',
 );

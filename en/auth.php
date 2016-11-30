@@ -25,4 +25,6 @@ return array (
   'have_an_account' => 'Already have an account?',
   'facebook_login' => 'Log in with Facebook',
   'linkedin_login' => 'Log in with Linkedin',
+  'authenticate_with_a_provider' => 'Please authenticate with a provider below.',
+  'shibboleth_login' => 'Continue to Login',
 );

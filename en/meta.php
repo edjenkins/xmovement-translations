@@ -20,4 +20,6 @@ return array (
   'translation_description' => 'Translate files on the EventMovement platform',
   'competition_title' => 'Competition - EventMovement',
   'competition_description' => 'Details about the EventMovement competition',
+  'admin_title' => 'Admin',
+  'admin_description' => 'Tools for managing the platform.',
 );

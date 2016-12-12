@@ -14,4 +14,5 @@ return array (
   'preferences' => 'Preferences',
   'analytics' => 'Analytics',
   'inspiration' => 'Inspiration',
+  'manage_platform' => 'Manage Platform',
 );

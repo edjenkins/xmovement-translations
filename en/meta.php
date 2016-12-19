@@ -14,4 +14,12 @@ return array (
   'ideas_index_description' => 'Discover Ideas',
   'ideas_view_title' => ':idea_name - LaunchSpot',
   'ideas_view_description' => 'Support :user_name\'s idea \':idea_name\' on LaunchSpot',
+  'analytics_title' => 'Analytics - LaunchSpot',
+  'analytics_description' => 'View analytics for the LaunchSpot platform',
+  'translation_title' => 'Translation - LaunchSpot',
+  'translation_description' => 'Translate files on the LaunchSpot platform',
+  'competition_title' => 'Competition - LaunchSpot',
+  'competition_description' => 'Details about the LaunchSpot competition',
+  'admin_title' => 'Admin',
+  'admin_description' => 'Tools for managing the platform.',
 );

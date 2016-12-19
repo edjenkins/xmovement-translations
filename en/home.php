@@ -1,7 +1,9 @@
 <?php
 
 return array (
-  'tagline' => 'Design technology to support people affected by selfharm',
-  'get_started' => 'Start your idea',
+  'tagline' => 'Help create technology to support people affected by dementia',
+  'get_started' => 'Share your idea',
   'featured_ideas' => 'Featured Ideas',
+  'be_inspired' => 'Be Inspired',
+  'watch_the_video' => 'Watch the Video',
 );

@@ -15,8 +15,8 @@ return array (
   'xmovement_requirement_invite_subject' => 'You have been nomintated by :name',
   'direct_message_subject' => 'You have received a direct message from :user_name',
   'contact_email_subject' => ':name has sent a message',
-  'proposal_phase_failed_subject' => 'The Plan It phase is complete',
   'comment_reply_subject' => ':user_name replied to your comment',
+  'proposal_phase_failed_subject' => 'The Plan It phase is complete',
   'view_requirement' => 'View Requirement',
   'view_about_page' => 'View About Page',
   'reset_password' => 'Reset Password',
@@ -24,4 +24,5 @@ return array (
   'live_for_x' => ':idea_name will be live for :time.',
   'view_proposals_page' => 'View Plans',
   'view_idea_page' => 'Go to Idea Page',
+  'quote_subject' => 'A little inspiration',
 );

@@ -1,9 +1,9 @@
 <?php
 
 return array (
-  'create_idea' => 'Post Idea',
+  'create_idea' => 'Share Idea',
   'edit_idea' => 'Edit Idea',
-  'name_your_idea' => 'Start your Idea',
+  'name_your_idea' => 'Share your Idea',
   'describe_your_idea' => 'A little more detail',
   'add_a_photo' => 'Express your Idea with an image',
   'settings' => 'Set your Idea duration',

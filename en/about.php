@@ -2,8 +2,8 @@
 
 return array (
   'tagline' => 'How does it work?',
-  'summary-first-title' => 'Post Idea',
-  'summary-first-description' => 'Post an idea with just a few clicks. Share it with your friends on social media to get support for your idea.',
+  'summary-first-title' => 'Share Idea',
+  'summary-first-description' => 'Share an idea with just a few clicks. Share it with your friends on social media to get support for your idea.',
   'summary-second-title' => 'Get Involved',
   'summary-second-description' => 'Work with members of the community to develop and shape the idea. Vote to have your voice heard and join in with the discussion.',
   'summary-third-title' => 'Plan It',

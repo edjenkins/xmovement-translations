@@ -9,7 +9,7 @@ return array (
   'delete_confirmation' => 'Are you sure you want to delete this?',
   'delete_idea' => 'Delete this Idea',
   'supporters' => 'Supporters',
-  'organized_by' => 'Organized by :user_name',
+  'organized_by' => 'Idea by :user_name',
   'creator' => 'Idea Creator',
   'design_area_opens' => 'Design phase starts in :time',
   'proposal_area_opens' => 'Plan It phase starts in :time',

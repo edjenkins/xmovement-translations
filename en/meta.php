@@ -22,4 +22,6 @@ return array (
   'competition_description' => 'Details about the LaunchSpot competition',
   'admin_title' => 'Admin',
   'admin_description' => 'Tools for managing the platform.',
+  'guidelines_title' => 'Guidlines',
+  'guidelines_description' => 'These are the Guidelines for the process.',
 );

@@ -60,4 +60,6 @@ return array (
   'view_all_tenders' => 'View all tenders',
   'first_to_submit_tender' => 'Be the first to submit a tender',
   'no_tenders_added_yet' => 'No tenders added yet',
+  'tender_phase_open_notification' => 'The Tender phase is now open, you can submit a new tender and follow the progress of existing tenders.',
+  'progress_tender' => 'Tender',
 );

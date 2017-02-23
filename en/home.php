@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'tagline' => 'Help to create technologies for people with dementia and their carers',
+  'tagline' => 'Help design apps and platforms for people living with dementia',
   'get_started' => 'Share your ideas',
   'featured_ideas' => 'Featured Ideas',
   'be_inspired' => 'Be Inspired',

@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'welcome_subject' => 'Welcome to EventMovement',
+  'welcome_subject' => 'Welcome to CityLit',
   'create_idea_subject' => 'You\'ve started an Idea',
   'update_posted_subject' => ':user_name has posted an update',
   'invite_subject' => ':name wants you to support their idea',
@@ -24,4 +24,5 @@ return array (
   'live_for_x' => ':idea_name will be live for :time.',
   'view_proposals_page' => 'View Plans',
   'view_idea_page' => 'Go to Idea Page',
+  'quote_subject' => 'This is a quote',
 );

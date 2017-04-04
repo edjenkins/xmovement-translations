@@ -14,4 +14,7 @@ return array (
   'preferences' => 'Preferences',
   'analytics' => 'Analytics',
   'inspiration' => 'Inspiration',
+  'blog' => 'Blog',
+  'manage_platform' => 'Manage Platform',
+  'manage_admins' => 'Manage Admins',
 );

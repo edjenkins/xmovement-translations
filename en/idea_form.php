@@ -27,4 +27,5 @@ return array (
   'question_1_placeholder' => 'An example question',
   'question_2_placeholder' => 'An example question',
   'question_3_placeholder' => 'An example question',
+  'category_label' => 'Category',
 );

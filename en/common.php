@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'brand' => 'EventMovement',
+  'brand' => 'CityLit',
   'idea' => 'Idea|Ideas',
   'ideas' => 'Ideas',
   'or' => 'or',
@@ -11,4 +11,12 @@ return array (
   'loading' => 'Loading',
   'no_results' => 'No Results',
   'no_results_for_x' => 'No results for',
+  'close' => 'Close',
+  'show_all' => 'Show all',
+  'all' => 'All',
+  'comingsoon' => 'Coming soon',
+  'shortlisted' => 'Shortlisted',
+  'author' => 'Author',
+  'continue' => 'Continue',
+  'please_wait_for_upload' => 'Please wait for upload to complete',
 );

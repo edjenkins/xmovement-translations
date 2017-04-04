@@ -60,4 +60,6 @@ return array (
   'first_to_submit_tender' => 'Be the first to submit a tender',
   'no_tenders_added_yet' => 'No tenders added yet',
   'shortlist_message' => 'The following ideas have been shortlisted by a panel of experts in the field. These ideas were chosen not only because they have received great support from the community but because they are intersting and achievable. These chosen ideas will be opened up to the community to design/develop the ideas further and be taken to the next stage.',
+  'progress_tender' => 'Tender',
+  'tender_phase_open_notification' => 'The tender phase is now open',
 );

@@ -36,4 +36,6 @@ return array (
   'tender_phase_closed' => 'Tender Phase Closed',
   'tender_deleted' => 'Tender Deleted',
   'tender_created' => 'Tender Created',
+  'quote_sent_via_email' => 'Quote sent via email',
+  'post_not_found' => 'Post not found',
 );

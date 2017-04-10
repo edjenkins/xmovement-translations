@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'create' => 'Start an Idea',
+  'create' => 'Propose an Idea',
   'explore' => 'Explore',
   'about' => 'About',
   'login' => 'Login',

@@ -1,9 +1,9 @@
 <?php
 
 return array (
-  'create_idea' => 'Start Idea',
+  'create_idea' => 'Propose Idea',
   'edit_idea' => 'Edit Idea',
-  'name_your_idea' => 'Start your Idea',
+  'name_your_idea' => 'Propose your Idea',
   'describe_your_idea' => 'A little more detail',
   'add_a_photo' => 'Express your Idea with an image',
   'settings' => 'Set your Idea duration',
@@ -12,10 +12,10 @@ return array (
   'description_label' => 'Add a short description of your Idea to help people understand it better. For example, what is the Idea about? Why do you think it is a good Idea? (You can always edit this later)',
   'photo_label' => 'Express your Idea with an image',
   'visibility_label' => 'Do you want this Idea to be public? (Public Ideas are visible on the Explore page)',
-  'proposals_during_design_label' => 'Start the Plan It phase at the same time as the Get Involved phase',
-  'design_during_support_label' => 'Start the Get Involved phase straight away',
+  'proposals_during_design_label' => 'Start the Make it happen phase at the same time as the Create phase',
+  'design_during_support_label' => 'Start the Create phase straight away',
   'supporters_target_label' => 'Target number of supporters',
-  'duration_label' => 'Each idea goes through the Support, Get Involved and Plan It phases before it is complete. Pick a duration for your idea in days.',
+  'duration_label' => 'Each idea goes through the Propose, Create and Make it happen phases before it is complete. Pick a duration for your idea in days.',
   'name_placeholder' => 'E.g. Study Skills Training...',
   'supporters_target_placeholder' => '0',
   'next_step' => 'Next Step',

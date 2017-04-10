@@ -5,7 +5,7 @@ return array (
   'idea_success' => 'Idea Success',
   'supported_ideas' => 'Ideas supported',
   'no_ideas' => 'None yet!',
-  'created_ideas' => 'Ideas started',
+  'created_ideas' => 'Ideas proposed',
   'no_bio' => 'You have no bio, why not add one?',
   'preferences' => 'Preferences',
   'news' => 'News',

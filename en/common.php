@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'brand' => 'CityLit',
+  'brand' => 'Create by CityLit',
   'idea' => 'Idea|Ideas',
   'ideas' => 'Ideas',
   'or' => 'or',

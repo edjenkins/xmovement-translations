@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'brand' => 'EventMovement 2016 ©',
+  'brand' => 'EventMovement 2017 ©',
   'contact' => 'Contact',
   'terms' => 'Terms',
   'start_translating' => 'Translate',

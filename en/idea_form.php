@@ -16,7 +16,7 @@ return array (
   'design_during_support_label' => 'Start the Get Involved phase straight away',
   'supporters_target_label' => 'Target number of supporters',
   'duration_label' => 'Each idea goes through the Support, Get Involved and Plan It phases before it is complete. Pick a duration for your idea in days.',
-  'name_placeholder' => 'E.g. Study Skills Training...',
+  'name_placeholder' => 'E.g. Virtual Reality / Artificial Intelligence',
   'supporters_target_placeholder' => '0',
   'next_step' => 'Next Step',
   'previous_step' => 'Previous Step',
@@ -27,4 +27,5 @@ return array (
   'question_1_placeholder' => 'An example question',
   'question_2_placeholder' => 'An example question',
   'question_3_placeholder' => 'An example question',
+  'category_label' => 'Select a category',
 );

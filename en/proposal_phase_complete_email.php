@@ -2,7 +2,7 @@
 
 return array (
   'header' => 'Proposal phase complete',
-  'line_1' => 'Well :user_name, it\'s been emotional, but :idea_name is now complete.',
+  'line_1' => 'Hey :user_name, :idea_name is now complete.',
   'line_2' => 'There were :supporter_count supporters for the idea.',
   'line_3' => 'The most popular plan was:',
   'line_4' => 'So what\'s next?',

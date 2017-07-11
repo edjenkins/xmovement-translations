@@ -22,4 +22,12 @@ return array (
   'competition_description' => 'Details about the EventMovement competition',
   'admin_title' => 'Admin',
   'admin_description' => 'Tools for managing the platform.',
+  'blog_index_title' => 'Blog',
+  'blog_index_description' => 'Event Movement blog page',
+  'blog_post_view_title' => 'Blog Post',
+  'blog_post_description' => 'A blog post',
+  'profile_description' => 'A user profile',
+  'user_details_title' => 'User Details',
+  'user_details_description' => 'Please add some user details',
+  'default_description' => 'A page',
 );

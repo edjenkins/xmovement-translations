@@ -15,4 +15,6 @@ return array (
   'analytics' => 'Analytics',
   'inspiration' => 'Inspiration',
   'manage_platform' => 'Manage Platform',
+  'manage_admins' => 'Manage Admins',
+  'blog' => 'Blog',
 );

@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'tagline' => 'Make your event idea a reality',
+  'tagline' => 'Help us to design VentureFest North East',
   'get_started' => 'Start your idea',
   'featured_ideas' => 'Featured Ideas',
   'be_inspired' => 'Be Inspired',

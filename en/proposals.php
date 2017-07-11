@@ -31,4 +31,6 @@ return array (
   'description' => 'Description',
   'description_placeholder' => 'Describe your plan...',
   'submit_confirmation' => 'Are you sure you want to submit this plan?',
+  'upload_document' => 'Upload a document',
+  'view_proopsal_document' => 'View proposal document',
 );

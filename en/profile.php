@@ -6,7 +6,7 @@ return array (
   'supported_ideas' => 'Ideas supported',
   'no_ideas' => 'None yet!',
   'created_ideas' => 'Ideas started',
-  'no_bio' => 'You have no bio, why not add one?',
+  'no_bio' => 'You haven\'t added your business name, why not add it now?',
   'preferences' => 'Preferences',
   'news' => 'News',
   'messages' => 'Messages',

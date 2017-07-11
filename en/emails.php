@@ -25,4 +25,5 @@ return array (
   'view_proposals_page' => 'View Plans',
   'view_idea_page' => 'Go to Idea Page',
   'quote_subject' => 'A little inspiration',
+  'support_phase_failed_subject' => 'Support phase failed',
 );

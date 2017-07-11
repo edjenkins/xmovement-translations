@@ -16,7 +16,7 @@ return array (
   'user_not_found' => 'User not found',
   'page_not_found' => 'Page not found',
   'support_phase_closed' => 'The Support phase is closed',
-  'design_phase_closed' => 'The Get Invovled phase is closed',
+  'design_phase_closed' => 'Please sign in to contribute',
   'proposal_phase_closed' => 'The Plan It phase is closed',
   'support_phase_locked' => 'The Support phase is locked',
   'design_phase_locked' => 'The Get Invovled phase is locked',
@@ -37,4 +37,6 @@ return array (
   'tender_deleted' => 'Tender Deleted',
   'tender_created' => 'Tender Created',
   'quote_sent_via_email' => 'Quote sent via email',
+  'post_not_found' => 'Post not found',
+  'email_required' => 'Email required',
 );

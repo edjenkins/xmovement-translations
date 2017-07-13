@@ -1,6 +1,6 @@
 <?php
 
 return array (
-  'explore' => 'Explore Ideas',
+  'explore' => 'Explore Suggested Topics',
   'inspiration' => 'Inspiration',
 );

@@ -2,8 +2,8 @@
 
 return array (
   404 => '404',
-  503 => '503',
   'page_not_found' => 'Page Not Found',
-  'service_unavailable' => 'Service Unavailable',
   'return_to_home' => 'Return to Home',
+  503 => '503',
+  'service_unavailable' => 'Service Unavailable',
 );

@@ -1,13 +1,13 @@
 <?php
 
 return array (
-  'add_design_task' => 'Add Talking Point',
+  'back_to_idea' => 'Back to Topic Page',
+  'design_dashboard' => 'Get Involved Dashboard',
+  'back_to_dashboard' => 'Back to Dashboard',
   'delete_task' => 'Delete Talking Point',
   'report_content' => 'Report Content',
-  'back_to_dashboard' => 'Back to Dashboard',
-  'design_dashboard' => 'Get Involved Dashboard',
   'dashboard' => 'Get Involved Dashboard',
   'view_proposals' => 'View Plans',
-  'back_to_idea' => 'Back to Idea',
+  'add_design_task' => 'Add Talking Point',
   'design_phase_closed' => 'The Get Involved phase is now closed',
 );

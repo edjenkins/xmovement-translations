@@ -1,20 +1,20 @@
 <?php
 
 return array (
-  'create' => 'Start an Idea',
-  'explore' => 'Explore',
+  'explore' => 'Explore Topics',
+  'toggle' => 'Toggle Navigation',
   'about' => 'About',
+  'inspiration' => 'Inspiration',
+  'create' => 'Suggest a Topic',
+  'blog' => 'Blog',
   'login' => 'Login',
   'register' => 'Register',
-  'logout' => 'Log out',
-  'toggle' => 'Toggle Navigation',
   'profile' => 'Your Profile',
   'translate' => 'Translate',
-  'stop_translating' => 'Stop Translating',
-  'preferences' => 'Preferences',
   'analytics' => 'Analytics',
-  'inspiration' => 'Inspiration',
   'manage_platform' => 'Manage Platform',
   'manage_admins' => 'Manage Admins',
-  'blog' => 'Blog',
+  'logout' => 'Log out',
+  'stop_translating' => 'Stop Translating',
+  'preferences' => 'Preferences',
 );
